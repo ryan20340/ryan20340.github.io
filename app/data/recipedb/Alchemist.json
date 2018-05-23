@@ -10944,5 +10944,39 @@
       "ko": "Silvergrace Grimoire"
     },
     "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "fc9344579d5",
+    "level": 350,
+    "maxQuality": 24033,
+    "name": {
+      "cn": "Veteran Tree Sap",
+      "de": "Alter Baumsaft",
+      "en": "Veteran Tree Sap",
+      "fr": "Sève de vieil arbre",
+      "ja": "老木樹液",
+      "ko": "Veteran Tree Sap"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 3943,
+    "durability": 70,
+    "id": "fa878ebce36",
+    "level": 350,
+    "maxQuality": 29579,
+    "name": {
+      "cn": "Silvergrace Needle (Stat example)",
+      "de": "Silbergunst-Nadel",
+      "en": "Silvergrace Needle (Stat example)",
+      "fr": "Aiguille en graçargent",
+      "ja": "グレースニードル",
+      "ko": "Silvergrace Needle (Stat example)"
+    },
+    "stars": 3
   }
 ]
