@@ -1,6 +1,12 @@
-# FFXIV Crafting Optimizer Website
+# FFXIV Crafting Optimizer Website (Test Edition)
 
-This project contains the source for the [FFXIV Crafting Optimizer Website](http://ffxiv.lokyst.net/). It uses [AngularJS](http://angularjs.org/), [AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/), and [Bootstrap](http://getbootstrap.com/).
+## This test edition of [Ermad's version of the crafting optimizer](https://ermad.github.io/ffxiv-craft-opt-web/app/#/simulator) is intended to be used for theorycrafted speculations of future quality and progress requirements. 
+
+### How to use
+
+[Link](https://ryan20340.github.io/app/#/simulator) Just use as you would the real simulator. All test crafts will be under Alchemist crafts. Any suggestions for different requirements let me know. My discord, which would be better to contact me is Shikhu#3190 or you can ask in [the balance discord](https://discord.gg/CjQkEn3).
+
+This project contains the source for the [FFXIV Crafting Optimizer Website](http://ffxiv.lokyst.net/). It uses [AngularJS](http://angularjs.org/), [AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/), and [Bootstrap](http://getbootstrap.com/). 
 
 ### Running the app during development
 
